@@ -33,7 +33,7 @@ Works with [Chrome](https://www.google.com/intl/en_uk/chrome/), [Firefox](https:
 ## Installation
 
 ```bash
-npm install puppeteer-cucumber-js
+yarn add puppeteer-cucumber-js
 ```
 
 ## Usage
